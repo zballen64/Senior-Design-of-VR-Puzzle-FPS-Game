@@ -7,4 +7,10 @@ the player will also solve puzzles and complete quizzes
 themed about the class on Digital-Logic Circuits.
 
 This project is for the UMES senior design class
-Designer of the project: Zachary Allen.
+
+## Weekly Updates
+Powerpoints on the PowerPoint Branch
+Reports on the Report Branch
+
+### Designer of the project: 
+Zachary Allen.
