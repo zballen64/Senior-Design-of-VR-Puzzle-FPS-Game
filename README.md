@@ -8,9 +8,5 @@ themed about the class on Digital-Logic Circuits.
 
 This project is for the UMES senior design class
 
-## Weekly Updates
-Powerpoints on the PowerPoint Branch
-Reports on the Report Branch
-
 ### Designer of the project: 
 Zachary Allen.
